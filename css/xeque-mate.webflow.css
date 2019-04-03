@@ -91,7 +91,6 @@
 }
 
 .w-commerce-commercecheckoutlabel {
-  font-weight: 400;
   margin-bottom: 8px;
 }
 
@@ -113,9 +112,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 0px;
@@ -175,9 +172,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -233,9 +228,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -291,9 +284,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -373,9 +364,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -431,9 +420,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -489,9 +476,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -547,9 +532,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 0px;
@@ -689,9 +672,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -753,9 +734,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -817,9 +796,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -905,9 +882,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -963,9 +938,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -1021,9 +994,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -1079,9 +1050,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -1137,9 +1106,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -1195,9 +1162,7 @@
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  color: #333;
   display: block;
-  font-size: 14px;
   height: 38px;
   line-height: 20px;
   margin-bottom: 16px;
@@ -1305,6 +1270,13 @@
   white-space: pre-wrap;
 }
 
+.w-commerce-commercecheckoutorderitemoptionlist {
+  text-decoration: none;
+  padding-left: 0px;
+  margin-bottom: 0px;
+  list-style-type: none;
+}
+
 .w-commerce-commercelayoutsidebar {
   -webkit-flex-basis: 320px;
   -ms-flex-preferred-size: 320px;
@@ -1361,7 +1333,6 @@
 
 .w-commerce-commercecheckoutsummarytotal {
   font-weight: 700;
-  font-size: 18px;
 }
 
 .w-commerce-commercecheckoutplaceorderbutton {
@@ -1479,12 +1450,66 @@
 }
 
 @media screen and (max-width: 479px) {
+  .w-commerce-commercecheckoutemailinput {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutshippingfullname {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutshippingstreetaddress {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutshippingstreetaddressoptional {
+    font-size: 16px;
+  }
   .w-commerce-commercecheckoutrow {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
+  }
+  .w-commerce-commercecheckoutshippingcity {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutshippingstateprovince {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutshippingzippostalcode {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutshippingcountryselector {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutcardnumber,
+  .w-commerce-commercecheckoutcardnumber {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutcardexpirationdate,
+  .w-commerce-commercecheckoutcardexpirationdate {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutcardsecuritycode,
+  .w-commerce-commercecheckoutcardsecuritycode {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutbillingfullname {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutbillingstreetaddress {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutbillingstreetaddressoptional {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutbillingcity {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutbillingstateprovince {
+    font-size: 16px;
+  }
+  .w-commerce-commercecheckoutbillingzippostalcode {
+    font-size: 16px;
   }
 }
 
@@ -1757,6 +1782,8 @@ figcaption {
 
 .container {
   position: relative;
+  display: block;
+  text-align: center;
 }
 
 .container.hero-container {
@@ -2128,7 +2155,7 @@ figcaption {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  text-align: left;
+  text-align: center;
 }
 
 .section-title-wrapper.full.info {
@@ -2204,7 +2231,8 @@ figcaption {
 }
 
 .section-description.small {
-  width: 70%;
+  display: block;
+  width: 100%;
   margin-top: 25px;
   float: left;
   clear: none;
@@ -2590,6 +2618,7 @@ figcaption {
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
   background-attachment: scroll, fixed;
+  text-align: center;
 }
 
 .image-section-overlay {
@@ -2728,12 +2757,22 @@ figcaption {
   height: 565px;
 }
 
-.info-block-left {
+.info-block-center {
   width: 56%;
 }
 
-.info-block-left.ui {
+.info-block-center.ui {
+  display: inline;
+  overflow: visible;
   width: 45%;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
+  text-align: center;
 }
 
 .info-row {
@@ -4267,7 +4306,7 @@ figcaption {
   width: 100%;
   height: 340px;
   border-radius: 3px;
-  background-image: url('../images/nani-rodrigues-xeque-mate-verao-16.jpg');
+  background-image: url('../images/spiced.jpg');
   background-position: 50% 50%;
   background-size: cover;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, .3);
@@ -4286,8 +4325,10 @@ figcaption {
 }
 
 .home-intro-link-block._3 {
-  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-extras10.jpg');
+  background-image: url('../images/xeque-mate-lata.jpg');
   background-position: 50% 50%;
+  background-size: cover;
+  background-attachment: scroll;
 }
 
 .intro-block-overlay {
@@ -4303,7 +4344,7 @@ figcaption {
   align-items: center;
   border-radius: 3px;
   background-color: transparent;
-  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-stories3.jpg');
+  background-image: url('../images/spiced.jpg');
   background-position: 0px -200px;
   background-size: cover;
   opacity: 0;
@@ -4327,7 +4368,9 @@ figcaption {
 }
 
 .intro-block-overlay.rum {
-  background-image: none;
+  background-image: url('../images/xeque-mate-lata.jpeg');
+  background-position: 50% 50%;
+  background-size: cover;
 }
 
 .intro-block-overlay.nomade {
@@ -6784,18 +6827,8 @@ figcaption {
 .sobre {
   padding-top: 190px;
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/xequemate-sobre.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/xequemate-sobre.jpg');
-  background-position: 0px 0px, 50% 50%;
-  background-size: auto, cover;
-  text-align: center;
-}
-
-.header {
-  padding-top: 190px;
-  padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/capa-produtos.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/capa-produtos.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Cópia-de-xeque-mate-nani-rodrigues-setembro-16.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Cópia-de-xeque-mate-nani-rodrigues-setembro-16.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   text-align: center;
@@ -6813,6 +6846,10 @@ figcaption {
 
 .columns-3 {
   margin-bottom: 3%;
+}
+
+.paragraph-8 {
+  font-size: 20px;
 }
 
 html.w-mod-js *[data-ix="hide-block-title"] {
@@ -7222,7 +7259,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     top: -21px;
     right: -408px;
   }
-  .info-block-left.ui {
+  .info-block-center.ui {
     width: 55%;
   }
   .info-icon {
@@ -8087,7 +8124,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     width: 100%;
     height: auto;
   }
-  .info-block-left {
+  .info-block-center {
     width: 100%;
   }
   .info-row {
@@ -9291,10 +9328,10 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     font-size: 13px;
     line-height: 19px;
   }
-  .info-block-left {
+  .info-block-center {
     width: 100%;
   }
-  .info-block-left.ui {
+  .info-block-center.ui {
     display: block;
     width: 90%;
     margin-right: auto;
@@ -10125,6 +10162,28 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     background-position: 0px 0px, 76% 50%;
     background-size: auto, cover;
   }
+}
+
+#w-node-229078da74d6-ccbbdf8d {
+  -ms-grid-column: 1;
+  grid-column-start: 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: 2;
+  -ms-grid-row: 1;
+  grid-row-start: 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: 2;
+}
+
+#w-node-3389240a28f3-ccbbdf8d {
+  -ms-grid-column: 1;
+  grid-column-start: 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: 2;
+  -ms-grid-row: 2;
+  grid-row-start: 2;
+  -ms-grid-row-span: 1;
+  grid-row-end: 3;
 }
 
 @font-face {
