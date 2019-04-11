@@ -2605,7 +2605,7 @@ figcaption {
   margin-top: 0px;
   padding-top: 0px;
   background-image: url('../images/IMG_6509.JPG');
-  background-position: 0px -920px;
+  background-position: 0px -1230px;
   background-size: cover;
 }
 
@@ -6727,8 +6727,8 @@ figcaption {
 .header {
   padding-top: 190px;
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Cópia-de-xeque-mate-nani-rodrigues-setembro-7.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Cópia-de-xeque-mate-nani-rodrigues-setembro-7.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-7.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-7.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   text-align: center;
@@ -6827,8 +6827,8 @@ figcaption {
 .sobre {
   padding-top: 190px;
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Cópia-de-xeque-mate-nani-rodrigues-setembro-16.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Cópia-de-xeque-mate-nani-rodrigues-setembro-16.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-16.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-16.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   text-align: center;
@@ -10157,8 +10157,8 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
   .sobre {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Cópia-de-xeque-mate-nani-rodrigues-setembro-16.jpg');
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Cópia-de-xeque-mate-nani-rodrigues-setembro-16.jpg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-16.jpg');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-16.jpg');
     background-position: 0px 0px, 76% 50%;
     background-size: auto, cover;
   }
