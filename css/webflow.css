@@ -576,6 +576,7 @@ textarea.w-select {
 }
 .w-col-6 {
   width: 50%;
+  text-align: left;
 }
 .w-col-7 {
   width: 58.33333333%;
