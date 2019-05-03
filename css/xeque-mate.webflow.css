@@ -758,17 +758,17 @@ figcaption {
   overflow: hidden;
   height: 400px;
   border-radius: 4px;
-  background-image: url('../images/Photo-8.jpg');
+  background-image: url('../images/Photo-8.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .video-lightbox-block.large {
-  background-image: url('../images/Photo-6_1.jpg');
+  background-image: url('../images/Photo-6_1.webp');
 }
 
 .video-lightbox-block.about-us {
-  background-image: url('../images/Photo-8.jpg');
+  background-image: url('../images/Photo-8.webp');
 }
 
 .video-lightbox-overlay {
@@ -889,14 +889,14 @@ figcaption {
   width: 100%;
   height: 270px;
   border-radius: 4px;
-  background-image: url('../images/Photo-13.jpg');
+  background-image: url('../images/Photo-13.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .portfolio-image-block.large {
   height: 560px;
-  background-image: url('../images/Photo-2_1.jpg');
+  background-image: url('../images/Photo-2_1.webp');
 }
 
 .portfolio-image-block.medium {
@@ -1057,20 +1057,20 @@ figcaption {
 }
 
 .image-section.clients {
-  background-image: url('../images/Photo-6.jpg');
+  background-image: url('../images/Photo-6.webp');
 }
 
 .image-section.get-the-app {
-  background-image: url('../images/Photo-4.jpg');
+  background-image: url('../images/Photo-4.webp');
   background-position: 50% 30%;
 }
 
 .image-section.quote {
-  background-image: url('../images/Photo-3_1.jpg');
+  background-image: url('../images/Photo-3_1.webp');
 }
 
 .image-section.pricing {
-  background-image: url('../images/Photo-1.jpg');
+  background-image: url('../images/Photo-1.webp');
   background-size: cover;
 }
 
@@ -1086,11 +1086,11 @@ figcaption {
 }
 
 .image-section.about-us {
-  background-image: url('../images/Photo-5_2.jpg');
+  background-image: url('../images/Photo-5_2.webp');
 }
 
 .image-section.about-us-2 {
-  background-image: url('../images/Photo-1.jpg');
+  background-image: url('../images/Photo-1.webp');
 }
 
 .image-section.about-us-3 {
@@ -1659,13 +1659,13 @@ figcaption {
 
 .image-hero {
   background-color: #0f1011;
-  background-image: url('../images/Photo-2.jpg');
+  background-image: url('../images/Photo-2.webp');
   background-position: 50% 0px;
   background-size: cover;
 }
 
 .image-hero.busines-2 {
-  background-image: url('../images/Photo-11.jpg');
+  background-image: url('../images/Photo-11.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1673,8 +1673,8 @@ figcaption {
 .image-hero.download {
   padding-top: 190px;
   padding-bottom: 120px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-9.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-9.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-9.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-9.webp');
   background-position: 0px 0px, 50% 0px;
   background-size: auto, cover;
 }
@@ -1947,14 +1947,14 @@ figcaption {
   width: 100%;
   height: 100%;
   border-radius: 4px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1))), url('../images/Photo-6_1.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../images/Photo-6_1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1))), url('../images/Photo-6_1.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../images/Photo-6_1.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .video-lightbox-image-block.hero {
-  background-image: url('../images/Photo-7.jpg');
+  background-image: url('../images/Photo-7.webp');
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
@@ -1967,8 +1967,8 @@ figcaption {
 }
 
 .video-lightbox-image-block.slider {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1))), url('../images/Photo-13.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../images/Photo-13.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1))), url('../images/Photo-13.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../images/Photo-13.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -2032,8 +2032,8 @@ figcaption {
 }
 
 .pricing-block.image {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-9.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-9.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-9.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-9.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   color: #fff;
@@ -2508,7 +2508,7 @@ figcaption {
   height: 160px;
   margin-bottom: 20px;
   border-radius: 4px;
-  background-image: url('../images/Photo-8.jpg');
+  background-image: url('../images/Photo-8.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3001,7 +3001,7 @@ figcaption {
   padding-top: 200px;
   padding-bottom: 130px;
   background-color: #353942;
-  background-image: linear-gradient(135deg, rgba(53, 57, 66, .8), #2a2e36), url('../images/Photo-4.jpg');
+  background-image: linear-gradient(135deg, rgba(53, 57, 66, .8), #2a2e36), url('../images/Photo-4.webp');
   background-position: 0px 0px, 50% 0px;
   background-size: auto, cover;
 }
@@ -3045,14 +3045,14 @@ figcaption {
   width: 50%;
   height: 500px;
   float: left;
-  background-image: url('../images/Photo-12.jpg');
+  background-image: url('../images/Photo-12.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .half-image-section.right {
   float: right;
-  background-image: url('../images/Photo-8.jpg');
+  background-image: url('../images/Photo-8.webp');
 }
 
 .half-content-section {
@@ -3223,8 +3223,8 @@ figcaption {
 }
 
 .subpage-header.contact {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-5_2.jpg');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-5_2.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-5_2.webp');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-5_2.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   color: #fff;
@@ -3244,36 +3244,36 @@ figcaption {
 .subpage-header.with-contact-info {
   position: relative;
   padding-bottom: 230px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Photo-5_1.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Photo-5_1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Photo-5_1.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Photo-5_1.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.pricing-1 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-1.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-1.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-1.webp');
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .subpage-header.pricing-3 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .7)), to(rgba(31, 111, 255, .7))), url('../images/Photo-12_1.jpg');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .7), rgba(31, 111, 255, .7)), url('../images/Photo-12_1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .7)), to(rgba(31, 111, 255, .7))), url('../images/Photo-12_1.webp');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .7), rgba(31, 111, 255, .7)), url('../images/Photo-12_1.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.pricing-2 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Photo-9.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Photo-9.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Photo-9.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Photo-9.webp');
   background-position: 0px 0px, 50% 100%;
   background-size: auto, cover;
 }
 
 .subpage-header.pricing-4 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-1.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-1.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-1.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -3290,8 +3290,8 @@ figcaption {
 
 .subpage-header.pricing-5 {
   padding-bottom: 200px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-5_2.jpg');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-5_2.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-5_2.webp');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-5_2.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -3299,8 +3299,8 @@ figcaption {
 .subpage-header.about-2 {
   padding-top: 180px;
   padding-bottom: 90px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-5.jpg');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-5.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-5.webp');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-5.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -3315,30 +3315,30 @@ figcaption {
 .subpage-header.about-5 {
   padding-top: 250px;
   padding-bottom: 170px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-6_1.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-6_1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-6_1.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-6_1.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.ui {
   padding-top: 210px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-2.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-2.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-2.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-2.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.blog-1 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-4.jpg');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-4.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-4.webp');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-4.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.sign-up-1 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-4.jpg');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-4.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-4.webp');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-4.webp');
   background-position: 0px 0px, 50% 0px;
   background-size: auto, cover;
 }
@@ -3346,8 +3346,8 @@ figcaption {
 .subpage-header.blog-2 {
   padding-top: 125px;
   padding-bottom: 0px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(28, 35, 49, .9)), to(rgba(28, 35, 49, .9))), url('../images/Photo-6_1.jpg');
-  background-image: linear-gradient(180deg, rgba(28, 35, 49, .9), rgba(28, 35, 49, .9)), url('../images/Photo-6_1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(28, 35, 49, .9)), to(rgba(28, 35, 49, .9))), url('../images/Photo-6_1.webp');
+  background-image: linear-gradient(180deg, rgba(28, 35, 49, .9), rgba(28, 35, 49, .9)), url('../images/Photo-6_1.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -3734,7 +3734,7 @@ figcaption {
   margin-right: 40px;
   float: left;
   border-radius: 5px;
-  background-image: url('../images/Testimonial-12.jpg');
+  background-image: url('../images/Testimonial-12.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3814,7 +3814,7 @@ figcaption {
   width: 100%;
   height: 200px;
   border-radius: 4px;
-  background-image: url('../images/Photo-5_2.jpg');
+  background-image: url('../images/Photo-5_2.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3829,7 +3829,7 @@ figcaption {
   width: 100%;
   height: 240px;
   border-radius: 5px;
-  background-image: url('../images/Photo-7.jpg');
+  background-image: url('../images/Photo-7.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3876,42 +3876,42 @@ figcaption {
   width: 100%;
   height: 300px;
   border-radius: 4px;
-  background-image: url('../images/Photo-10.jpg');
+  background-image: url('../images/Photo-10.webp');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .gallery-image-block._2 {
-  background-image: url('../images/Photo-3.jpg');
+  background-image: url('../images/Photo-3.webp');
 }
 
 .gallery-image-block._3 {
-  background-image: url('../images/Z-1.jpg');
+  background-image: url('../images/Z-1.webp');
 }
 
 .gallery-image-block.small {
   height: 100px;
-  background-image: url('../images/Photo-12.jpg');
+  background-image: url('../images/Photo-12.webp');
 }
 
 .gallery-image-block.small._2 {
-  background-image: url('../images/Photo-8.jpg');
+  background-image: url('../images/Photo-8.webp');
 }
 
 .gallery-image-block.small._3 {
-  background-image: url('../images/Photo-7.jpg');
+  background-image: url('../images/Photo-7.webp');
 }
 
 .gallery-image-block.small._4 {
-  background-image: url('../images/Photo-9.jpg');
+  background-image: url('../images/Photo-9.webp');
 }
 
 .gallery-image-block.small._5 {
-  background-image: url('../images/Photo-2_1.jpg');
+  background-image: url('../images/Photo-2_1.webp');
 }
 
 .gallery-image-block.small._6 {
-  background-image: url('../images/Photo-3_1.jpg');
+  background-image: url('../images/Photo-3_1.webp');
 }
 
 .gallery-overlay-icon {
@@ -4098,8 +4098,8 @@ figcaption {
 
 .element-container.navigation._3 {
   height: 130px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-6.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-6.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-6.webp');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-6.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -4359,8 +4359,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #1f6fff;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-3_1.jpg');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-3_1.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-3_1.webp');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-3_1.webp');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -5475,7 +5475,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     font-size: 12px;
   }
   .hero-background-video {
-    background-image: url('../images/Photo-9.jpg');
+    background-image: url('../images/Photo-9.webp');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -5873,7 +5873,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     margin-bottom: 30px;
   }
   .video-section {
-    background-image: url('../images/Photo-2.jpg');
+    background-image: url('../images/Photo-2.webp');
     background-position: 50% 50%;
     background-size: cover;
   }
