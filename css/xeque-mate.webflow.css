@@ -8365,3 +8365,11 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
 .columns-2.w-row {
   padding-bottom: 50px;
 }
+
+.white-contact-form.w-form {
+  height: 700px;
+
+}
+.contact-info-block{
+  height: 700px;
+}
