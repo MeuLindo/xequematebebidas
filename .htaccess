@@ -7,6 +7,8 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 RewriteCond %{HTTP_HOST} ^xequematebebidas.com.br [NC]
 RewriteRule ^(.*)$ http://www.xequematebebidas.com.br/$1 [L,R=301,NC]
 
+ErrorDocument 404 /404.html
+
 
 <IfModule mod_expires.c>
   ExpiresActive On
