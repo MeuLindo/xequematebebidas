@@ -24,6 +24,6 @@
   $headers .= "Reply-To: $visitor_email \r\n";
 
   mail($to,$email_subject,$email_body,$headers);
-  header("Location: contact-form-thank-you.html")
+  header("Location: email-recebido.html")
 
 ?>

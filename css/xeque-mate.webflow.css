@@ -8373,3 +8373,11 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
 .contact-info-block{
   height: 700px;
 }
+
+.white-contact-form.w-form.obrigado{
+  height: 300px;
+}
+
+.contact-info-block.obrigado{
+  height: 300px;
+}
