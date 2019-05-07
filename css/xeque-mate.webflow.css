@@ -8393,15 +8393,16 @@ iframe{
   padding-top: 30px;
 }
 
-.espaco{
-  padding-top: 50px;
-  padding-bottom: 200px;: 
-}
 
 
-@media (max-width: 770px){
+
+@media (max-width: 479px){
   iframe{
     margin-bottom: 150px;
     width: 100%;
+  }
+  .espaco{
+    padding-top: 0px;
+    padding-bottom: 100px;:
   }
 }
