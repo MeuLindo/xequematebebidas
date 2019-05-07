@@ -8385,8 +8385,23 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
 
 iframe{
   margin-bottom: 140px;
+  width: 100%;
+  height: 40em;
 }
 
 .limpa{
   padding-top: 30px;
+}
+
+.espaco{
+  padding-top: 50px;
+  padding-bottom: 200px;: 
+}
+
+
+@media (max-width: 770px){
+  iframe{
+    margin-bottom: 150px;
+    width: 100%;
+  }
 }
