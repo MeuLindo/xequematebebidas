@@ -8385,16 +8385,15 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
 
 iframe{
   margin-bottom: 140px;
-  width: 100%;
-  height: 40em;
+  width: 130%;
+  height: 51em;
+  margin-left: -15%;
+
 }
 
 .limpa{
   padding-top: 30px;
 }
-
-
-
 
 @media (max-width: 479px){
   iframe{
