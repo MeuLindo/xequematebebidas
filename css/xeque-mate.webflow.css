@@ -327,7 +327,7 @@ figcaption {
 }
 
 .container.above-image-section {
-  margin-bottom: -220px;
+
   text-align: center;
 }
 
@@ -8383,16 +8383,9 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
   height: 300px;
 }
 
-iframe{
-  margin-bottom: 140px;
-  width: 130%;
-  height: 51em;
-  margin-left: -15%;
-
-}
-
 .limpa{
   padding-top: 30px;
+  margin-bottom: 70px;
 }
 
 @media (max-width: 479px){
