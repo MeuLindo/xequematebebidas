@@ -537,8 +537,6 @@ figcaption {
   position: relative;
   margin-top: 0px;
   margin-bottom: 0px;
-  padding-top: 110px;
-  padding-bottom: 80px;
   background-color: #fff;
 }
 
@@ -8386,6 +8384,14 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
 .limpa{
   padding-top: 30px;
   margin-bottom: 70px;
+}
+
+.espaco{
+  padding-top: 50px;
+}
+
+.espaco-baixo{
+  margin-bottom: 10px;
 }
 
 @media (max-width: 479px){
