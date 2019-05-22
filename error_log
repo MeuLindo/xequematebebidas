@@ -1,3 +1,0 @@
-[29-Jan-2019 09:52:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oviuc594/xequematebebidas.com.br/send_form_email.php on line 13
-[29-Jan-2019 09:54:06 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oviuc594/xequematebebidas.com.br/send_form_email.php on line 14
-[29-Jan-2019 10:08:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$email_body' (T_VARIABLE) in /home/oviuc594/xequematebebidas.com.br/send_form_email.php on line 12
