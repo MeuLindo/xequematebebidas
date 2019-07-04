@@ -757,17 +757,17 @@ figcaption {
   overflow: hidden;
   height: 400px;
   border-radius: 4px;
-  background-image: url('../images/Photo-8.webp');
+  background-image: url('../images/Photo-8.png');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .video-lightbox-block.large {
-  background-image: url('../images/Photo-6_1.webp');
+  background-image: url('../images/Photo-6_1.png');
 }
 
 .video-lightbox-block.about-us {
-  background-image: url('../images/Photo-8.webp');
+  background-image: url('../images/Photo-8.png');
 }
 
 .video-lightbox-overlay {
@@ -888,14 +888,14 @@ figcaption {
   width: 100%;
   height: 270px;
   border-radius: 4px;
-  background-image: url('../images/Photo-13.webp');
+  background-image: url('../images/Photo-13.png');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .portfolio-image-block.large {
   height: 560px;
-  background-image: url('../images/Photo-2_1.webp');
+  background-image: url('../images/Photo-2_1.png');
 }
 
 .portfolio-image-block.medium {
@@ -1050,52 +1050,52 @@ figcaption {
 }
 
 .image-section {
-  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-17.webp');
+  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-17.png');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .image-section.clients {
-  background-image: url('../images/Photo-6.webp');
+  background-image: url('../images/Photo-6.png');
 }
 
 .image-section.get-the-app {
-  background-image: url('../images/Photo-4.webp');
+  background-image: url('../images/Photo-4.png');
   background-position: 50% 30%;
 }
 
 .image-section.quote {
-  background-image: url('../images/Photo-3_1.webp');
+  background-image: url('../images/Photo-3_1.png');
 }
 
 .image-section.pricing {
-  background-image: url('../images/Photo-1.webp');
+  background-image: url('../images/Photo-1.png');
   background-size: cover;
 }
 
 .image-section.newsletter {
-  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-7.webp');
+  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-7.png');
   background-position: 0% 58%;
 }
 
 .image-section.avatars {
-  background-image: url('../images/Job-seeker-image.webp');
+  background-image: url('../images/Job-seeker-image.png');
   background-position: 50% 67%;
   background-size: contain;
 }
 
 .image-section.about-us {
-  background-image: url('../images/Photo-5_2.webp');
+  background-image: url('../images/Photo-5_2.png');
 }
 
 .image-section.about-us-2 {
-  background-image: url('../images/Photo-1.webp');
+  background-image: url('../images/Photo-1.png');
 }
 
 .image-section.about-us-3 {
   margin-top: 0px;
   padding-top: 0px;
-  background-image: url('../images/IMG_6509.webp');
+  background-image: url('../images/IMG_6509.png');
   background-position: 0px -1230px;
   background-size: cover;
 }
@@ -1104,7 +1104,7 @@ figcaption {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #eee;
-  background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url('../images/xeque-mate-nani-rodrigues-setembro-extras3.webp');
+  background-image: linear-gradient(86deg, #eee 39%, hsla(0, 0%, 93%, .2)), url('../images/xeque-mate-nani-rodrigues-setembro-extras3.png');
   background-position: 0px 0px, 100% 0px;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -1658,13 +1658,13 @@ figcaption {
 
 .image-hero {
   background-color: #0f1011;
-  background-image: url('../images/Photo-2.webp');
+  background-image: url('../images/Photo-2.png');
   background-position: 50% 0px;
   background-size: cover;
 }
 
 .image-hero.busines-2 {
-  background-image: url('../images/Photo-11.webp');
+  background-image: url('../images/Photo-11.png');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1672,8 +1672,8 @@ figcaption {
 .image-hero.download {
   padding-top: 190px;
   padding-bottom: 120px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-9.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-9.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-9.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-9.png');
   background-position: 0px 0px, 50% 0px;
   background-size: auto, cover;
 }
@@ -1946,28 +1946,28 @@ figcaption {
   width: 100%;
   height: 100%;
   border-radius: 4px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1))), url('../images/Photo-6_1.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../images/Photo-6_1.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1))), url('../images/Photo-6_1.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../images/Photo-6_1.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .video-lightbox-image-block.hero {
-  background-image: url('../images/Photo-7.webp');
+  background-image: url('../images/Photo-7.png');
   background-position: 50% 50%;
   background-size: cover;
   text-align: center;
 }
 
 .video-lightbox-image-block.small-hero {
-  background-image: url('../images/tratadas-20.webp');
+  background-image: url('../images/tratadas-20.png');
   background-position: 0px 0px;
   background-size: cover;
 }
 
 .video-lightbox-image-block.slider {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1))), url('../images/Photo-13.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../images/Photo-13.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .1)), to(rgba(0, 0, 0, .1))), url('../images/Photo-13.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url('../images/Photo-13.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -2031,8 +2031,8 @@ figcaption {
 }
 
 .pricing-block.image {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-9.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-9.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-9.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-9.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   color: #fff;
@@ -2209,7 +2209,7 @@ figcaption {
 }
 
 .browser-mockup-right:hover {
-  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-stories3.webp');
+  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-stories3.png');
   background-position: 50% 50%;
   background-size: 1261px;
 }
@@ -2507,7 +2507,7 @@ figcaption {
   height: 160px;
   margin-bottom: 20px;
   border-radius: 4px;
-  background-image: url('../images/Photo-8.webp');
+  background-image: url('../images/Photo-8.png');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2797,7 +2797,7 @@ figcaption {
   width: 100%;
   height: 340px;
   border-radius: 3px;
-  background-image: url('../images/spiced.webp');
+  background-image: url('../images/spiced.png');
   background-position: 50% 50%;
   background-size: cover;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, .3);
@@ -2810,13 +2810,13 @@ figcaption {
 
 .home-intro-link-block._2 {
   height: 450px;
-  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-18.webp');
+  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-18.png');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .home-intro-link-block._3 {
-  background-image: url('../images/lata_site.webp');
+  background-image: url('../images/lata_site.png');
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: scroll;
@@ -2835,7 +2835,7 @@ figcaption {
   align-items: center;
   border-radius: 3px;
   background-color: transparent;
-  background-image: url('../images/spiced.webp');
+  background-image: url('../images/spiced.png');
   background-position: 0px -200px;
   background-size: cover;
   opacity: 0;
@@ -2859,7 +2859,7 @@ figcaption {
 }
 
 .intro-block-overlay.rum {
-  background-image: url('../images/lata_site.webp');
+  background-image: url('../images/lata_site.png');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3000,7 +3000,7 @@ figcaption {
   padding-top: 200px;
   padding-bottom: 130px;
   background-color: #353942;
-  background-image: linear-gradient(135deg, rgba(53, 57, 66, .8), #2a2e36), url('../images/Photo-4.webp');
+  background-image: linear-gradient(135deg, rgba(53, 57, 66, .8), #2a2e36), url('../images/Photo-4.png');
   background-position: 0px 0px, 50% 0px;
   background-size: auto, cover;
 }
@@ -3044,14 +3044,14 @@ figcaption {
   width: 50%;
   height: 500px;
   float: left;
-  background-image: url('../images/Photo-12.webp');
+  background-image: url('../images/Photo-12.png');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .half-image-section.right {
   float: right;
-  background-image: url('../images/Photo-8.webp');
+  background-image: url('../images/Photo-8.png');
 }
 
 .half-content-section {
@@ -3213,8 +3213,8 @@ figcaption {
 .subpage-header {
   padding-top: 190px;
   padding-bottom: 90px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .67)), to(rgba(0, 0, 0, .67))), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .67), rgba(0, 0, 0, .67)), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .67)), to(rgba(0, 0, 0, .67))), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .67), rgba(0, 0, 0, .67)), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.png');
   background-position: 0px 0px, 50% 66%;
   background-size: auto, cover;
   color: #fff;
@@ -3222,15 +3222,15 @@ figcaption {
 }
 
 .subpage-header.contact {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-5_2.webp');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-5_2.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-5_2.png');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-5_2.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   color: #fff;
 }
 
 .subpage-header.contact-2 {
-  background-image: linear-gradient(135deg, rgba(0, 0, 0, .9) 24%, rgba(31, 174, 255, 0)), url('../images/xeque-mate-nani-rodrigues-setembro-17.webp');
+  background-image: linear-gradient(135deg, rgba(0, 0, 0, .9) 24%, rgba(31, 174, 255, 0)), url('../images/xeque-mate-nani-rodrigues-setembro-17.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -3243,36 +3243,36 @@ figcaption {
 .subpage-header.with-contact-info {
   position: relative;
   padding-bottom: 230px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Photo-5_1.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Photo-5_1.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Photo-5_1.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Photo-5_1.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.pricing-1 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-1.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-1.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-1.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-1.png');
   background-position: 0px 0px, 0px 0px;
   background-size: auto, cover;
 }
 
 .subpage-header.pricing-3 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .7)), to(rgba(31, 111, 255, .7))), url('../images/Photo-12_1.webp');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .7), rgba(31, 111, 255, .7)), url('../images/Photo-12_1.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .7)), to(rgba(31, 111, 255, .7))), url('../images/Photo-12_1.png');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .7), rgba(31, 111, 255, .7)), url('../images/Photo-12_1.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.pricing-2 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Photo-9.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Photo-9.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/Photo-9.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/Photo-9.png');
   background-position: 0px 0px, 50% 100%;
   background-size: auto, cover;
 }
 
 .subpage-header.pricing-4 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-1.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-1.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .4)), to(rgba(0, 0, 0, .4))), url('../images/Photo-1.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../images/Photo-1.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -3280,8 +3280,8 @@ figcaption {
 .subpage-header.about-1 {
   padding-top: 190px;
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(25, 27, 31, .8)), to(rgba(25, 27, 31, .8))), url('../images/nani-rodrigues-xeque-mate-verao-4.webp');
-  background-image: linear-gradient(180deg, rgba(25, 27, 31, .8), rgba(25, 27, 31, .8)), url('../images/nani-rodrigues-xeque-mate-verao-4.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(25, 27, 31, .8)), to(rgba(25, 27, 31, .8))), url('../images/nani-rodrigues-xeque-mate-verao-4.png');
+  background-image: linear-gradient(180deg, rgba(25, 27, 31, .8), rgba(25, 27, 31, .8)), url('../images/nani-rodrigues-xeque-mate-verao-4.png');
   background-position: 0px 0px, 50% 59%;
   background-size: auto, cover;
   text-align: left;
@@ -3289,8 +3289,8 @@ figcaption {
 
 .subpage-header.pricing-5 {
   padding-bottom: 200px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-5_2.webp');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-5_2.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-5_2.png');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-5_2.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -3298,46 +3298,46 @@ figcaption {
 .subpage-header.about-2 {
   padding-top: 180px;
   padding-bottom: 90px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-5.webp');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-5.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-5.png');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-5.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.about-3 {
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.png');
   background-position: 0px 0px, 50% -1012px;
 }
 
 .subpage-header.about-5 {
   padding-top: 250px;
   padding-bottom: 170px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-6_1.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-6_1.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-6_1.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-6_1.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.ui {
   padding-top: 210px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-2.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-2.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-2.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-2.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.blog-1 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-4.webp');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-4.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-4.png');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-4.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .subpage-header.sign-up-1 {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-4.webp');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-4.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .9)), to(rgba(31, 111, 255, .9))), url('../images/Photo-4.png');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .9), rgba(31, 111, 255, .9)), url('../images/Photo-4.png');
   background-position: 0px 0px, 50% 0px;
   background-size: auto, cover;
 }
@@ -3345,8 +3345,8 @@ figcaption {
 .subpage-header.blog-2 {
   padding-top: 125px;
   padding-bottom: 0px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(28, 35, 49, .9)), to(rgba(28, 35, 49, .9))), url('../images/Photo-6_1.webp');
-  background-image: linear-gradient(180deg, rgba(28, 35, 49, .9), rgba(28, 35, 49, .9)), url('../images/Photo-6_1.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(28, 35, 49, .9)), to(rgba(28, 35, 49, .9))), url('../images/Photo-6_1.png');
+  background-image: linear-gradient(180deg, rgba(28, 35, 49, .9), rgba(28, 35, 49, .9)), url('../images/Photo-6_1.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -3733,7 +3733,7 @@ figcaption {
   margin-right: 40px;
   float: left;
   border-radius: 5px;
-  background-image: url('../images/Testimonial-12.webp');
+  background-image: url('../images/Testimonial-12.png');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3813,7 +3813,7 @@ figcaption {
   width: 100%;
   height: 200px;
   border-radius: 4px;
-  background-image: url('../images/Photo-5_2.webp');
+  background-image: url('../images/Photo-5_2.png');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3828,7 +3828,7 @@ figcaption {
   width: 100%;
   height: 240px;
   border-radius: 5px;
-  background-image: url('../images/Photo-7.webp');
+  background-image: url('../images/Photo-7.png');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3875,42 +3875,42 @@ figcaption {
   width: 100%;
   height: 300px;
   border-radius: 4px;
-  background-image: url('../images/Photo-10.webp');
+  background-image: url('../images/Photo-10.png');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .gallery-image-block._2 {
-  background-image: url('../images/Photo-3.webp');
+  background-image: url('../images/Photo-3.png');
 }
 
 .gallery-image-block._3 {
-  background-image: url('../images/Z-1.webp');
+  background-image: url('../images/Z-1.png');
 }
 
 .gallery-image-block.small {
   height: 100px;
-  background-image: url('../images/Photo-12.webp');
+  background-image: url('../images/Photo-12.png');
 }
 
 .gallery-image-block.small._2 {
-  background-image: url('../images/Photo-8.webp');
+  background-image: url('../images/Photo-8.png');
 }
 
 .gallery-image-block.small._3 {
-  background-image: url('../images/Photo-7.webp');
+  background-image: url('../images/Photo-7.png');
 }
 
 .gallery-image-block.small._4 {
-  background-image: url('../images/Photo-9.webp');
+  background-image: url('../images/Photo-9.png');
 }
 
 .gallery-image-block.small._5 {
-  background-image: url('../images/Photo-2_1.webp');
+  background-image: url('../images/Photo-2_1.png');
 }
 
 .gallery-image-block.small._6 {
-  background-image: url('../images/Photo-3_1.webp');
+  background-image: url('../images/Photo-3_1.png');
 }
 
 .gallery-overlay-icon {
@@ -4097,8 +4097,8 @@ figcaption {
 
 .element-container.navigation._3 {
   height: 130px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-6.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-6.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/Photo-6.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/Photo-6.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -4359,8 +4359,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #1f6fff;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-3_1.webp');
-  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-3_1.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(31, 111, 255, .8)), to(rgba(31, 111, 255, .8))), url('../images/Photo-3_1.png');
+  background-image: linear-gradient(180deg, rgba(31, 111, 255, .8), rgba(31, 111, 255, .8)), url('../images/Photo-3_1.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
@@ -4651,8 +4651,8 @@ figcaption {
 
 .section-2 {
   height: 100vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .8)), to(rgba(0, 0, 0, .8))), url('../images/xeque-mate-nani-rodrigues-setembro-7.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url('../images/xeque-mate-nani-rodrigues-setembro-7.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .8)), to(rgba(0, 0, 0, .8))), url('../images/xeque-mate-nani-rodrigues-setembro-7.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .8), rgba(0, 0, 0, .8)), url('../images/xeque-mate-nani-rodrigues-setembro-7.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, repeat;
@@ -4902,8 +4902,8 @@ figcaption {
 .header {
   padding-top: 190px;
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-7.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-7.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-7.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-7.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   text-align: center;
@@ -4993,8 +4993,8 @@ figcaption {
 .section-6 {
   padding-top: 190px;
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/IMG_9532.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/IMG_9532.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/IMG_9532.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/IMG_9532.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   color: white;
@@ -5003,8 +5003,8 @@ figcaption {
 .sobre {
   padding-top: 190px;
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-16.webp');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-16.webp');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-16.png');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-16.png');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   text-align: center;
@@ -5476,7 +5476,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     font-size: 12px;
   }
   .hero-background-video {
-    background-image: url('../images/Photo-9.webp');
+    background-image: url('../images/Photo-9.png');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -5789,8 +5789,8 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
   }
   .subpage-header.about-3 {
     padding-bottom: 140px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.webp');
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.webp');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.png');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.png');
     background-position: 0px 0px, 0px -1970px;
   }
   .subpage-header.about-5 {
@@ -5874,7 +5874,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     margin-bottom: 30px;
   }
   .video-section {
-    background-image: url('../images/Photo-2.webp');
+    background-image: url('../images/Photo-2.png');
     background-position: 50% 50%;
     background-size: cover;
   }
@@ -6850,8 +6850,8 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
   .subpage-header.about-3 {
     padding-top: 90px;
     padding-bottom: 90px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.webp');
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.webp');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5))), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.png');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('../images/xeque-mate-nani-rodrigues-setembro-stories4.png');
     background-position: 0px 0px, 0px -2463px;
   }
   .subpage-header.about-5 {
@@ -7443,7 +7443,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     background-position: 0px 105px;
   }
   .image-section.ui-section {
-    background-image: linear-gradient(86deg, #eee, hsla(0, 0%, 93%, .8)), url('../images/xeque-mate-nani-rodrigues-setembro-14.webp');
+    background-image: linear-gradient(86deg, #eee, hsla(0, 0%, 93%, .8)), url('../images/xeque-mate-nani-rodrigues-setembro-14.png');
     background-position: 0px 0px, 50% 50%;
     background-size: auto, auto;
     background-repeat: repeat, repeat;
@@ -8333,8 +8333,8 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
   .sobre {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-16.webp');
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-16.webp');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-16.png');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-16.png');
     background-position: 0px 0px, 76% 50%;
     background-size: auto, cover;
   }
