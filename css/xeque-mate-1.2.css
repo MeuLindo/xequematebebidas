@@ -1074,8 +1074,8 @@ figcaption {
 }
 
 .image-section.newsletter {
-  background-image: url('../images/xeque-mate-nani-rodrigues-setembro-7.png');
-  background-position: 0% 58%;
+  background-image: url('../images/foto-contatos.jpg');
+  background-position: 0% 50%;
 }
 
 .image-section.avatars {
@@ -2810,13 +2810,13 @@ figcaption {
 
 .home-intro-link-block._2 {
   height: 450px;
-  background-image: url('../images/garrafa-nova.jpg');
+  background-image: url('../images/foto-lata-home.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .home-intro-link-block._3 {
-  background-image: url('../images/lata_site.png');
+  background-image: url('../images/foto-lata-home.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: scroll;
@@ -2859,7 +2859,7 @@ figcaption {
 }
 
 .intro-block-overlay.rum {
-  background-image: url('../images/lata_site.png');
+  background-image: url('../images/foto-lata-home.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -4902,8 +4902,8 @@ figcaption {
 .header {
   padding-top: 190px;
   padding-bottom: 190px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/nani-rodrigues-setembro-7.png');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/nani-rodrigues-setembro-7.png');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .6)), to(rgba(0, 0, 0, .6))), url('../images/cabecalho-produto.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url('../images/cabecalho-produto.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   text-align: center;
@@ -8395,6 +8395,11 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
 .espaco-baixo{
   margin-bottom: 10px;
 }
+
+.video-prod{
+  margin-top: 10%;
+}
+
 
 @media (max-width: 479px){
   iframe{
