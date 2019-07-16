@@ -8410,4 +8410,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     padding-top: 0px;
     padding-bottom: 100px;:
   }
+  video{
+    width: 300px;
+  }
 }
