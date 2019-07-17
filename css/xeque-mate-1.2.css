@@ -2776,6 +2776,7 @@ figcaption {
   display: inline-block;
   width: 42%;
   color: #9a9da3;
+  margin-top: -60px;
 }
 
 .home-intro-wrapper.mid {
