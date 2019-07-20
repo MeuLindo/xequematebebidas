@@ -1386,7 +1386,7 @@ figcaption {
 .footer-link.social {
   padding-left: 20px;
   background-image: url('../images/Icon-facebook.png');
-  background-position: 0px 50%;
+  background-position: 30px 50%;
   background-size: 12px;
   background-repeat: no-repeat;
 }
@@ -1406,9 +1406,10 @@ figcaption {
 .footer-link.social.instagram {
   padding-left: 20px;
   background-image: url('../images/Instagram-icon-WHITE-300x300-1-300x300.png');
-  background-position: -2px 0px;
+  background-position: 25px 0px;
   background-size: contain;
 }
+
 
 .features-row {
   margin-top: 50px;
@@ -5351,7 +5352,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     margin-top: 7px;
   }
   .section-description.small {
-    
+
   }
   .section-description.in-column {
     font-size: 18px;
@@ -8415,6 +8416,13 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     padding: 5%;
 }
 
+.footer-link.social.instagram {
+  background-position: 115px 0px;
+}
+
+.footer-link.social{
+  background-position: 118px 0px;
+}
 
 
 @media (max-width: 479px){
