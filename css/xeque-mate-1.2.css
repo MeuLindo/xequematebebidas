@@ -3544,7 +3544,7 @@ figcaption {
 }
 
 .contact-info-block {
-  height: 545px;
+  height: auto;
   padding: 45px 45px 0px;
   border-style: solid;
   border-width: 2px;
