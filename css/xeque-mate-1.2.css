@@ -6051,7 +6051,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     height: auto;
   }
   .container.bottom-footer {
-    margin-bottom: 120px;
+    margin-bottom: 50px;
     border-radius: 0px;
   }
   .container.footer-container {
@@ -8317,7 +8317,7 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
     top: 272px;
   }
   .text-block-3 {
-    top: 240px;
+    top: 250px;
   }
   .paragraph-4 {
     margin-left: 2%;
