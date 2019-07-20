@@ -8417,11 +8417,11 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
 }
 
 .footer-link.social.instagram {
-  background-position: 115px 0px;
+  background-position: 45px 0px;
 }
 
 .footer-link.social{
-  background-position: 118px 0px;
+  background-position: 51px 0px;
 }
 
 
@@ -8436,5 +8436,13 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
   }
   video{
     width: 300px;
+  }
+
+  .footer-link.social.instagram {
+    background-position: 120px 0px;
+  }
+
+  .footer-link.social{
+    background-position: 125px 0px;
   }
 }
