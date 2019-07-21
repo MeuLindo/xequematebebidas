@@ -5,6 +5,10 @@
   font-style: normal;
 }
 
+.botao{
+  padding: 10%;
+}
+
 body {
   height: 100%;
   background-color: #424549;
