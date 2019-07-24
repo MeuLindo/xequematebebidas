@@ -8404,7 +8404,6 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
 
 .limpa{
   padding-top: 30px;
-
 }
 
 .espaco{
@@ -8464,5 +8463,8 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
   }
   .produto-1{
     margin-bottom: 20%;
+  }
+  .columns-4.w-row.restaura{
+    padding-bottom: 0px;
   }
 }
