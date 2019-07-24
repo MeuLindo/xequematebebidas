@@ -8452,4 +8452,17 @@ html.w-mod-js *[data-ix="hide-lightbox"] {
   .footer-link.social{
     background-position: 120px 0px;
   }
+  .w-background-video > video{
+    position: absolute;
+    right: -148%;
+    bottom: -100%;
+    left: -153%;
+    top: -100%;
+    margin: auto;
+    z-index: -100;
+    width: 400%;
+  }
+  .produto-1{
+    margin-bottom: 20%;
+  }
 }
